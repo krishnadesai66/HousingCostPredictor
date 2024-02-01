@@ -1,4 +1,4 @@
-# HousingCostPredictor
+# Housing Cost Predictor
  Python ML models to predict housing costs
 
 
