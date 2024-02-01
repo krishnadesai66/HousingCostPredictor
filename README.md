@@ -24,9 +24,9 @@ Multivariate - h_θ(x)=θ_0 + θ_1(x)_1 + ... + θ_n(x)_n
 - an interactive panel that calculates the L1, L2, and Huber errors between the predicted values and actual data
 - plots the regression line and data points to compare the errors and values of theta
 
-Univariate Gradient Descent:
+<b>Univariate Gradient Descent</b>:
 - Compute theta coefficients using Gradient descent ( L2 and Huber )
 
-Extending model to Bivaraite
+<b>Extending model to Bivaraite</b>
 - Now predicting housing costs using avg. area house (x_1) and avg. area number of rooms (x_2)
   
