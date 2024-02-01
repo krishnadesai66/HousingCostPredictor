@@ -27,6 +27,6 @@ Multivariate - h_θ(x)=θ_0 + θ_1(x)_1 + ... + θ_n(x)_n
 <b>Univariate Gradient Descent</b>:
 - Compute theta coefficients using Gradient descent ( L2 and Huber )
 
-<b>Extending model to Bivaraite</b>
+<b>Extending model to Bivariate</b>
 - Now predicting housing costs using avg. area house (x_1) and avg. area number of rooms (x_2)
   
